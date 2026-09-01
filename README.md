@@ -42,6 +42,6 @@ The distance between the two points is: 7.07
 
 ## Author
 
-Name: Juan Dela Cruz
+Name: Rei Jennelle Q. Alabado
 
 Section: 8-Sampaguita
